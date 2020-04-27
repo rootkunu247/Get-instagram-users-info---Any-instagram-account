@@ -1,0 +1,3 @@
+Don't remove this folder it is so important.
+
+You can move file and remove them, but do not remove the folder named ' users '
