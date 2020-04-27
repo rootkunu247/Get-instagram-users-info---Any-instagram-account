@@ -26,6 +26,14 @@ all what you need is USERNAME.
    VERIFIED : {is_verified}
    BUSINESS ACCOUNT : {is_business_account}
 ```
+# Next update 
+* Get more information 
+``` 
+   PROFILE PIC : {profile_pic_url_hd}
+            '
+            '----- Auto SAVING.
+   HIGHLIGHT REEL : {highlight_reel_count}
+```
 # install ON TERMUX
 * [USING] :
 ```
