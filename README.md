@@ -33,6 +33,17 @@ all what you need is USERNAME.
             '
             '----- Auto SAVING.
    HIGHLIGHT REEL : {highlight_reel_count}
+   COUNTRY BLOCK : {country_block}
+
+   IGTV --
+          \_ {count}
+          /
+          \_ {page_info}
+          /
+          \_ {egdes} #Take time.
+   
+    BUSINESS CATEGORY NAME : {business_category_name}
+    CATEGORY ID : {category_id}
 ```
 # install ON TERMUX
 * [USING] :
