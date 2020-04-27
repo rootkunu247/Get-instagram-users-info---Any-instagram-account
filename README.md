@@ -34,6 +34,7 @@ all what you need is USERNAME.
 ```
 # RUNNING
 ```
+  .cd Get-instagram-users-info---Any-instagram-account
    cd zxllkada
    cd Dump_Instagram_Information_ANY_ACCOUNT
    python2 instainfo_zxll.py
