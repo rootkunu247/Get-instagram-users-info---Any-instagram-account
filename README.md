@@ -3,7 +3,8 @@
 
 # About this tool
 This tool works prefect on termux without any ERRORS
-* if you found any ERRORS open issues or contact me.
+* If you found any ERRORS open issues or contact me.
+* Was developed using python3
 
 ```
    Telegram : @Ghost7_Kada
@@ -59,6 +60,6 @@ all what you need is USERNAME.
    cd Get-instagram-users-info---Any-instagram-account
    cd zxllkada
    cd Dump_Instagram_Information_ANY_ACCOUNT
-   python2 instainfo_zxll.py
+   python instainfo_zxll.py
 ```
 * After that enter username and enjoy.
