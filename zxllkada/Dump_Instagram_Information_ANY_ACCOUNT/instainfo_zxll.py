@@ -232,6 +232,9 @@ def main():
             + - -- [ v 1.0 ]
             + - -- [ For v2.0 PRO - Telegram : @Ghost7_Kada ]
             + - -- [ Get Instagram users info ]
+            
+            + ---- [ NEXT UPDATE ] : 2 April 2020
+            + ---- [ TO SEE IT JOIN TO TELEGRAM CHANNEL ] : @zxllkada
 
         //////  EXIT USE : CTRL + C + ENTER  \\\\\\
 
