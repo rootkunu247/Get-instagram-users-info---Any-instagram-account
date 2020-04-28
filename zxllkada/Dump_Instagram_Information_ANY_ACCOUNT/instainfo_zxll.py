@@ -201,6 +201,7 @@ def info():
         if again.lower() == "y" :
                 os.system('clear')
                 user_info.clear()
+                user_img_info.clear()
                 main()
         elif again.lower() == "n" :
                 sys.exit()
