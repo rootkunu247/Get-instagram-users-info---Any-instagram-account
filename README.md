@@ -34,7 +34,15 @@ all what you need is USERNAME.
 ``` 
    PROFILE PIC : {profile_pic_url_hd}
             '
-            '----- Auto SAVING.
+            '--- Auto SAVING.
+            '--- PIC INFO.
+                  '
+                  '--- Last modified.
+                  '--- Type.
+                  '--- Size (Byte/MB).
+                  '--- Date.
+                  '--- Auto SAVING.
+
    HIGHLIGHT REEL : {highlight_reel_count}
    COUNTRY BLOCK : {country_block}
 
