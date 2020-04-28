@@ -3,7 +3,7 @@
 
 # About this tool
 
-:warning: # Note! : DO NOT USE THIS TOOL FOR CHECKING
+:warning: Note! : DO NOT USE THIS TOOL FOR CHECKING
 
 This tool works prefect on termux without any ERRORS
 * If you found any ERRORS open issues or contact me.
