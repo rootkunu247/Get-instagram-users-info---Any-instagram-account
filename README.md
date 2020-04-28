@@ -2,6 +2,7 @@
 ![zxllkada_TOLL](zxllkada/Screenshot_Zxllkada.png)
 
 # About this tool
+<h3>:warning:Note! : DO NOT USE THIS TOOL FOR CHECKING <h3>
 This tool works prefect on termux without any ERRORS
 * If you found any ERRORS open issues or contact me.
 * Was developed using python3
