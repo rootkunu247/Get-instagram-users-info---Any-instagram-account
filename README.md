@@ -28,10 +28,6 @@ all what you need is USERNAME.
    PRIVATE : {is_private}
    VERIFIED : {is_verified}
    BUSINESS ACCOUNT : {is_business_account}
-```
-# Next update 
-* Get more information 
-``` 
    PROFILE PIC : {profile_pic_url_hd}
             '
             '--- Auto SAVING.
@@ -42,7 +38,10 @@ all what you need is USERNAME.
                   '--- Size (Byte/MB).
                   '--- Date.
                   '--- Auto SAVING.
-
+```
+# Next update 
+* Get more information 
+``` 
    HIGHLIGHT REEL : {highlight_reel_count}
    COUNTRY BLOCK : {country_block}
 
