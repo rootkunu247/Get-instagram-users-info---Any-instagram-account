@@ -1,5 +1,5 @@
 # instainfo_zxll..  ``Screenshot``
-![zxllkada_TOLL](zxllkada/Screenshot_Zxllkada.png)
+![zxllkada_TOLL](zxllkada/instainfo_zxllkada.png)
 # About this tool
 
 :warning: Note! : DO NOT USE THIS TOOL FOR CHECKING
