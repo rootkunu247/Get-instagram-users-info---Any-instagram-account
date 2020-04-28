@@ -1,6 +1,5 @@
 # instainfo_zxll..  ``Screenshot``
 ![zxllkada_TOLL](zxllkada/Screenshot_Zxllkada.png)
-
 # About this tool
 
 :warning: Note! : DO NOT USE THIS TOOL FOR CHECKING
@@ -66,3 +65,6 @@ all what you need is USERNAME.
    python instainfo_zxll.py
 ```
 * After that enter username and enjoy.
+
+# Telegram channel [updates here]
+![Telegram_channel](zxllkada/Telegram_channel_join_to_get_updates.png)
