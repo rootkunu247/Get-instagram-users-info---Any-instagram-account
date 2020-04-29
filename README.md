@@ -60,7 +60,6 @@ all what you need is USERNAME.
 ```
    pkg update && upgrade
    pkg install git python
-   pip install requests
    git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
    
 ```
@@ -69,6 +68,7 @@ all what you need is USERNAME.
    cd Get-instagram-users-info---Any-instagram-account
    cd zxllkada
    cd Dump_Instagram_Information_ANY_ACCOUNT
+   pip2 install -r requirements.txt
    python instainfo_zxll.py
 ```
 * After that enter username and enjoy.
