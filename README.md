@@ -59,8 +59,8 @@ all what you need is USERNAME.
 * [USING] :
 ```
    pkg update && upgrade
-   pkg install git python3
-   pip install requests (or pip3 install requests)
+   pkg install git python
+   pip install requests (or pip install requests)
    git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
    
 ```
