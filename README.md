@@ -60,7 +60,7 @@ all what you need is USERNAME.
 ```
    pkg update && upgrade
    pkg install git python
-   pip install requests (or pip install requests)
+   pip install requests
    git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
    
 ```
