@@ -1,4 +1,4 @@
-# last update was 29 April 2020
+# last update was 2 April 2020
 ``Screenshot``
 ![zxllkada_TOLL](zxllkada/instainfo_zxllkada.png)
 # About this tool
@@ -6,7 +6,7 @@
 :warning: Note! : DO NOT USE THIS TOOL FOR CHECKING
 
 This tool works prefect on termux without any ERRORS
-* If you found any ERRORS open issues or contact me.
+* If you found any ERRORS please contact me.
 * Was developed using python3
 
 ```
@@ -15,46 +15,88 @@ This tool works prefect on termux without any ERRORS
 ```
 
 This tool helping you to get Instagram users information without login to your account,
-all what you need is USERNAME.
 
 * GET 
 ```
    PROFILE NAME : {full_name}
+        ’＿＿ [ MORE INFO ]
+        、 [ LOGGING PAGE ID ]
+        、 [ SHOW SUGGESTED PROFILES ]
+        、 [ SHOW FOLLOW DIALOG ]
    USERNAME : {username}
-   ID : {id}
-   BIO : {biography}
-   FOLLOWERS : {edge_followed_by}
-   FOLLOWING : {edge_follow}
-   POSTS : {edge_owner_to_timeline_media}
-   PRIVATE : {is_private}
-   VERIFIED : {is_verified}
-   BUSINESS ACCOUNT : {is_business_account}
-   PROFILE PIC : {profile_pic_url_hd}
-            '
-            '--- Auto SAVING.
-            '--- PIC INFO.
-                  '
-                  '--- Last modified.
-                  '--- Type.
-                  '--- Size (Byte/MB).
-                  '--- Date.
-                  '--- Auto SAVING.
+        ’＿＿ [ GET ID ]
+        、 [ ID ]
+        、 [ EMAIL ]
+        、 [ PHONE ]
+        、 [ JOIM ON INSTGRAM ]
+   [ LAST ACTIVITY ] [ ONLINE ]
+        |
+        ’＿＿ [ LAST POST WAS ]
+                |
+                ’＿＿ [ MORE INFO ABOUT POST ]
+                、    [ IMAGE OR VIDEO OR SIDECAR ]
+                、    [ POST ID ]
+                、    [ LINK TO POST ]
+                、    [ POST TEXT ]
+                、    [ LIKES ]
+                、    [ COMMENTS ]
+                、    [ TYPE ]
+                、    [ SIZE ]
+                、    [ DUNPED AT ]
+[ BIO ] : ---
+        |
+        ’＿＿ [ FIND LINK IN BIO ]
+        、 [ LINK ] : ---
+-----------------------
+[ FOLLOWERS ] : FOLLOWERS 'COUNT'
+        |
+        ’＿＿ [ GET FOLLOWERS ]
+[ FOLLOWING ] : FOLLOWING 'COUNT'
+        |
+        ’＿＿ [ GET FOLLOWING ]
+[ POSTS ] : POSTS 'COUNT'
+[ HIGHLIGHT REEL ] : HIGHLIGHT 'COUNT
+[ IGTV ] : IS THIS ACCOUNT HAVE IGTV
+        |
+        ’＿＿THIS ACCOUNT HAS IGTV
+           '＿＿ [ LAST POST WITH INFO ]
+             、 [ TITLE ]
+             、 [ PRODUCT TYPE ] 
+             、 [ LIKES ] 
+             、 [ COMMENTS ] 
+             、 [ ID ]
+             、 [ SHORT LINK ]
+[ Private ]
+        |
+        ’＿＿ IS PRIVATE ACCOUNT !
+-----------------------
+[ Verified ]
+        |
+        ’＿＿ IS VERIFIED PROFILE !
+[ BUSINESS ACCOUNT ]
+        |
+        ’＿＿ IS BUSINESS ACCOUNT !
+            |
+            '＿＿ BUSINESS CATEGORY NAME
+            '＿＿ CATEGORY ID
+---------------------------
+[ GET PROFILE PIC WITH INFO ]
+        |
+        ’＿＿ [ DONE ]
+        、 [ LAST MODIFIED ]
+        、 [ CONTENT TYPE ] 
+        、 [ SIZE ] 
+        、 [ SIZE ]
+        、 [ DATE ]
 ```
-# Next update 
-* Get more information 
-``` 
-   HIGHLIGHT REEL : {highlight_reel_count}
-   COUNTRY BLOCK : {country_block}
 
-   IGTV --
-          \_ {count}
-          /
-          \_ {page_info}
-          /
-          \_ {egdes} #Take time.
-   
-    BUSINESS CATEGORY NAME : {business_category_name}
-    CATEGORY ID : {category_id}
+# SAVING
+```
+[^] SAVE PROFILE INFO
+[^] SAVE PROFILE PIC
+[^] SAVE PRIFILE PIC INFO
+[^] SAVE LAST POST WITH INFO
+```
 ```
 # install ON TERMUX
 * [USING] :
