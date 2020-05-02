@@ -1,6 +1,6 @@
 # last update was 2 April 2020
 ``Screenshot``
-![zxllkada_TOLL](zxllkada/instainfo_zxllkada.png)
+![zxllkada_TOLL](zxllkada/instainfo_zxll_sc.jpg)
 # About this tool
 
 :warning: Note! : DO NOT USE THIS TOOL FOR CHECKING
