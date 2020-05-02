@@ -91,22 +91,26 @@ This tool helping you to get Instagram users information without login to your a
 ```
 
 # SAVING
+
 ```
 [^] SAVE PROFILE INFO
 [^] SAVE PROFILE PIC
 [^] SAVE PRIFILE PIC INFO
 [^] SAVE LAST POST WITH INFO
 ```
-```
+
 # install ON TERMUX
+
 * [USING] :
+
 ```
    pkg update && upgrade
    pkg install git python
    git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
-   
 ```
+
 # RUNNING
+
 ```
    cd Get-instagram-users-info---Any-instagram-account
    cd zxllkada
@@ -114,6 +118,7 @@ This tool helping you to get Instagram users information without login to your a
    pip2 install -r requirements.txt
    python instainfo_zxll.py
 ```
+
 * After that enter username and enjoy.
 
 # Telegram channel [updates here]
