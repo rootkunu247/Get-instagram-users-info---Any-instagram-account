@@ -10,7 +10,7 @@ This tool works prefect on termux without any ERRORS
 * Was developed using python3
 
 ```
-   Telegram : @Ghost7_Kada
+   Telegram : @ZKada
    Facebook : Facebook.com/zxlll
 ```
 
