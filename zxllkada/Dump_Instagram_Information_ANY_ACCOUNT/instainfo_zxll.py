@@ -2,7 +2,7 @@
 #####################################
 # BY KADA			    #
 # TEXT ME FOR MORE TOOLS :	    #
-#       TELEGRAM : @Ghost7_Kada     #
+#       TELEGRAM : @Zkada           #
 #       FACEBOOK : FB.COM/ZXLLL     #
 #                                   #
 # Never use this tool for CRACKING* #
