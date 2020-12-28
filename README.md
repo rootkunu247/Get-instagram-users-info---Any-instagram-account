@@ -1,4 +1,5 @@
-# last update was 2 April 2020
+# ⚠️ Not Working Now Wait Updates.
+# last update was 2 April 2020 " ✅ Updates soon ".
 ``Screenshot``
 ![zxllkada_TOLL](zxllkada/instainfo_zxll_sc.jpg)
 # About this tool
