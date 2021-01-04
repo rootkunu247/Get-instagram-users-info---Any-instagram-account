@@ -1,10 +1,10 @@
-# ⚠️ Not Working Now Wait Updates.
-# last update was 2 April 2020 " ✅ Updates soon ".
+# last update was 4 January 2021.
+# old update was 2 April 2020 .
 ``Screenshot``
 ![zxllkada_TOLL](zxllkada/instainfo_zxll_sc.jpg)
 # About this tool
 
-:warning: Note! : DO NOT USE THIS TOOL FOR CHECKING
+:warning: Note! : DO NOT USE THIS TOOL FOR CKRACKING
 
 This tool works prefect on termux without any ERRORS
 * If you found any ERRORS please contact me.
@@ -114,12 +114,9 @@ This tool helping you to get Instagram users information without login to your a
 
 ```
    cd Get-instagram-users-info---Any-instagram-account
-   cd zxllkada
-   cd Dump_Instagram_Information_ANY_ACCOUNT
-   pip2 install -r requirements.txt
-   python instainfo_zxll.py
+   cd New Verision -- Jan 4, 2021
+   python main.py
 ```
-
 * After that enter username and enjoy.
 
 # Telegram channel [updates here]
