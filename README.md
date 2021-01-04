@@ -37,7 +37,7 @@ This tool helping you to get Instagram users information without login to your a
 * After that enter username and enjoy.
 
 
-* DATA [ Updates soon ]
+# DATA [ Updates soon ]
 ```
    PROFILE NAME : {full_name}
         ’＿＿ [ MORE INFO ]
@@ -111,7 +111,7 @@ This tool helping you to get Instagram users information without login to your a
         、 [ DATE ]
 ```
 
-# SAVING
+# SAVING [ UPDATES SOON ]
 
 ```
 [^] SAVE PROFILE INFO
