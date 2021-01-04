@@ -1,6 +1,0 @@
-IF YOU GOT ANY ERRORS TRY :
-
-```
-pip2 install -r requirements.txt
-
-```
