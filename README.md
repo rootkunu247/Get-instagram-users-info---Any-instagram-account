@@ -19,7 +19,7 @@ This tool works prefect on termux without any ERRORS
 This tool helping you to get Instagram users information without login to your account,
 
 
-# install ON TERMUX OT LINUX :
+# install ON TERMUX OR LINUX :
 ```
    pkg update && upgrade
    pkg install git python
