@@ -33,7 +33,9 @@ This tool helping you to get Instagram users information without login to your a
 
 ```
    cd Get-instagram-users-info---Any-instagram-account
-   python main.py
+   cd zxllkada
+   cd Dump_Instagram_Information_ANY_ACCOUNT
+   python3 instainfo_zxll.py
 ```
 * After that enter username and enjoy.
 
