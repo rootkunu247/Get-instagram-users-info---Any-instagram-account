@@ -5,6 +5,9 @@
 ``old update was 2 April 2020.``
 
 <p align="center">
+   <a href="https://twitter.com/kada_soulayman">
+      <img src="https://img.shields.io/twitter/follow/kada_soulayman?label=Follow">
+   </a>
    <a href="https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account">
       <img src="https://img.shields.io/github/stars/zxllkada/Get-instagram-users-info---Any-instagram-account?style=social">
    </a>
