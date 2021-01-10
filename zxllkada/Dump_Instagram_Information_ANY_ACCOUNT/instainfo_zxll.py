@@ -946,7 +946,7 @@ def Ask():
                 GetAll.GetUser()
             except :
                 print (BG_P+" "+command+" "+BG_R+"NOT ON INSTAGRAM"+W+' > Error : GetAll.GetUser() Class')
-		print (Y+"[!]"+G+" CHANGE YOUR IP ADDRESS THEN TRY AGAIN"+W)
+                print (Y+"[!]"+G+" CHANGE YOUR IP ADDRESS THEN TRY AGAIN"+W)
                 sys.exit()
     except KeyboardInterrupt :
         print (BG_P+dict["GoodBye"]+W)
