@@ -3,6 +3,15 @@
 
 ``old update was 2 April 2020 .``
 
+<p align="center">
+   <a href="https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account">
+      <img src="https://img.shields.io/github/stars/zxllkada/Get-instagram-users-info---Any-instagram-account?style=social">
+   </a>
+   <a href="https://github.com/zxllkada">
+      <img src="https://img.shields.io/github/followers/zxllkada?label=Follow&style=social">
+   </a>
+</p>
+
 ``Screenshot``
 ![zxllkada_TOLL](zxllkada/instainfo_zxll_sc.jpg)
 # About this tool
