@@ -769,7 +769,7 @@ class DumpFromJsonFile :
             req = requests.get(url=URL, headers=dict["Headers"])
             data = req.json()
         except :
-            print (BG_P+" "+self.USERNAME+" "+BG_R+"NOT ON INSTAGRAM"+W)
+            print (BG_P+" "+self.USERNAME+" "+BG_R+"NOT ON INSTAGRAM"+W+' > Error : GetUser() URL')
             sys.exit()
         try :
             STORY_URL = 'https://www.instagram.com/graphql/query/?query_hash=c9100bf9110dd6361671f113dd02e7d6&variables={'+dict["IK"]+'user_id'+dict["IK"]+':'+dict["IK"]+data["graphql"]["user"]["id"]+dict["IK"]+','+dict["IK"]+'include_reel'+dict["IK"]+':true,'+dict["IK"]+'include_logged_out_extras'+dict["IK"]+':true}'
@@ -945,7 +945,7 @@ def Ask():
                 GetAll.USERNAME = dict["Target"]["USERNAME"]
                 GetAll.GetUser()
             except :
-                print (BG_P+command+" "+BG_R+" NOT ON INSTAGRAM "+W)
+                print (BG_P+" "+command+" "+BG_R+"NOT ON INSTAGRAM"+W+' > Error : GetAll.GetUser() Class')
                 sys.exit()
     except KeyboardInterrupt :
         print (BG_P+dict["GoodBye"]+W)
