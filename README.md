@@ -31,7 +31,7 @@ This tool works prefect on termux without any ERRORS
    Facebook : Facebook.com/zxlll
 ```
 
-This tool helping you to get Instagram users information without login to your account,
+This tool helping you to get Instagram users informations without login to your account.
 
 
 # install ON TERMUX OR LINUX :
@@ -49,7 +49,7 @@ This tool helping you to get Instagram users information without login to your a
    cd Dump_Instagram_Information_ANY_ACCOUNT
    python3 instainfo_zxll.py
 ```
-* After that enter username and enjoy.
+* After that enter {username} and enjoy.
 
 
 # DATA [ Updates soon ]
