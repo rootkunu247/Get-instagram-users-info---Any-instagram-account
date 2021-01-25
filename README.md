@@ -15,6 +15,19 @@
       <img src="https://img.shields.io/github/followers/zxllkada?label=Follow&style=social">
    </a>
 </p>
+   
+   
+``` 
+[ SHIT! ] : Instagram has made many updates and many links have been denied access,
+```
+```
+and login is now required to access only a few information.
+```
+```
+If a solution appears soon, the tool will be updated again.
+```
+
+
 
 ``Screenshot``
 ![zxllkada_TOLL](zxllkada/instainfo_zxll_sc.jpg)
