@@ -58,7 +58,7 @@ This tool helping you to get Instagram users informations without login to your 
 * After that enter {username} and enjoy.
 
 
-# DATA [ Updates soon ]
+# DATA [ UPDATES SOON ]
 ```
 [ SURE FACE DATA ] 
         、__ [~] Username
