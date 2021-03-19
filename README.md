@@ -60,76 +60,65 @@ This tool helping you to get Instagram users informations without login to your 
 
 # DATA [ Updates soon ]
 ```
-   PROFILE NAME : {full_name}
-        ’＿＿ [ MORE INFO ]
-        、 [ LOGGING PAGE ID ]
-        、 [ SHOW SUGGESTED PROFILES ]
-        、 [ SHOW FOLLOW DIALOG ]
-   USERNAME : {username}
-        ’＿＿ [ GET ID ]
-        、 [ ID ]
-        、 [ EMAIL ]
-        、 [ PHONE ]
-        、 [ JOIM ON INSTGRAM ]
-   [ LAST ACTIVITY ] [ ONLINE ]
-        |
-        ’＿＿ [ LAST POST WAS ]
-                |
-                ’＿＿ [ MORE INFO ABOUT POST ]
-                、    [ IMAGE OR VIDEO OR SIDECAR ]
-                、    [ POST ID ]
-                、    [ LINK TO POST ]
-                、    [ POST TEXT ]
-                、    [ LIKES ]
-                、    [ COMMENTS ]
-                、    [ TYPE ]
-                、    [ SIZE ]
-                、    [ DUNPED AT ]
-[ BIO ] : ---
-        |
-        ’＿＿ [ FIND LINK IN BIO ]
-        、 [ LINK ] : ---
------------------------
-[ FOLLOWERS ] : FOLLOWERS 'COUNT'
-        |
-        ’＿＿ [ GET FOLLOWERS ]
-[ FOLLOWING ] : FOLLOWING 'COUNT'
-        |
-        ’＿＿ [ GET FOLLOWING ]
-[ POSTS ] : POSTS 'COUNT'
-[ HIGHLIGHT REEL ] : HIGHLIGHT 'COUNT
-[ IGTV ] : IS THIS ACCOUNT HAVE IGTV
-        |
-        ’＿＿THIS ACCOUNT HAS IGTV
-           '＿＿ [ LAST POST WITH INFO ]
-             、 [ TITLE ]
-             、 [ PRODUCT TYPE ] 
-             、 [ LIKES ] 
-             、 [ COMMENTS ] 
-             、 [ ID ]
-             、 [ SHORT LINK ]
-[ Private ]
-        |
-        ’＿＿ IS PRIVATE ACCOUNT !
------------------------
-[ Verified ]
-        |
-        ’＿＿ IS VERIFIED PROFILE !
-[ BUSINESS ACCOUNT ]
-        |
-        ’＿＿ IS BUSINESS ACCOUNT !
-            |
-            '＿＿ BUSINESS CATEGORY NAME
-            '＿＿ CATEGORY ID
----------------------------
-[ GET PROFILE PIC WITH INFO ]
-        |
-        ’＿＿ [ DONE ]
-        、 [ LAST MODIFIED ]
-        、 [ CONTENT TYPE ] 
-        、 [ SIZE ] 
-        、 [ SIZE ]
-        、 [ DATE ]
+[ SURE FACE DATA ] 
+        、__ [~] Username
+        、__ [~] Full Name
+        、__ [~] Biography
+        、__ [~] External Url
+        、__ [~] External Url Linkshimmed
+        、__ [~] Edge Followed By
+        、__ [~] Edge Follow
+        、__ [~] is Private
+        、__ [~] is Verified
+        、__ [~] Category Enum
+        、__ [~] Profile Pic Url Hd
+        、__ [~] Show Suggested Profiles
+        、__ [~] Show Follow Dialog
+        、__ [~] Show View Shop
+        、__ [~] Highlight Reel Count
+        、__ [~] Edge Felix Video Timeline
+        、__ [~] Edge Owner To Timeline Media
+        、__ [~] Has Clips
+        、__ [~] Has Guides
+        、__ [~] Has Ar Effects
+        、__ [~] Has Channel
+ [ DEEP DATA ]
+        、__ [~] id
+        、__ [~] is Joined Recently
+        、__ [~] Has Public Story
+        、__ [~] is Live Now
+        、__ [~] [ ___Global Rank___ ]
+        、__ [~] Followers Rank
+        、__ [~] Following Rank
+        、__ [~] Media Rank
+        、__ [~] Total Likes
+        、__ [~] Total Comments
+        、__ [~] [ ___TOP 3 Posts___ ]      
+        、__ [~] 1 st
+        、__ [~] 2 nd
+        、__ [~] 3 rd
+        、__ [~] Overall Category Name
+        、__ [~] Category Name
+        、__ [~] is Business Account
+        、__ [~] Should Show Category
+        、__ [~] Business Category Name
+        、__ [~] Country Block
+        、__ [~] Toast Content On Load
+        、__ [~] Profile Pic Edit Sync Props
+        、__ [~] More Info About Profile Pic > Next Updates
+ [ DARK DATA ]
+        、__ [~] Loggin Page Id
+        、__ [~] Fbid
+        、__ [~] Connected Fb Page
+        、__ [~] Email > Next Updates
+        、__ [~] Phone > Next Updates
+        、__ [~] Twitter Account > Next Updates
+        、__ [~] Facebook Account > Next Updates
+        、__ [~] Web Match > Next Updates
+        、__ [~] Youtube Match > Next Updates
+        、__ [~] Image Match > Next Updates
+        、__ [~] Info Matched > Next Updates
+        、__ [~] Link Matched > Next Updates
 ```
 
 # SAVING [ UPDATES SOON ]
