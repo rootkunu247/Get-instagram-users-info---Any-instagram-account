@@ -44,7 +44,6 @@ This tool helping you to get Instagram users informations without login to your 
    pkg install git python
    pip install requests bs4 
    pip install urllib3
-   pip install urllib.request
    git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
 ```
 
