@@ -1,11 +1,17 @@
 from PersonalLib.Shadow import *
 from PersonalLib.Fast import *
 from PersonalLib.More import *
-from bs4 import BeautifulSoup
-from fake_useragent import UserAgent
-import requests
-import json
-import sys
+
+try:
+	from bs4 import BeautifulSoup
+	from fake_useragent import UserAgent
+	import requests
+	import json
+	import sys
+except ImportError:
+	print("""One or more modules are not installed.
+Run the following command to install missing modules:
+pip install bs4 fake_useragent requests json""")
 
 ######################
 session = requests.Session()
@@ -167,7 +173,7 @@ def MoreRank(headers, username):
 
 
 def main(session):
-	os.system("clear")
+	os.system("clear || cls")
 	Screen()
 	AskUser(session)
 	
