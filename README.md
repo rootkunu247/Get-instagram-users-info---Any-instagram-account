@@ -42,13 +42,13 @@ This tool helping you to get Instagram users informations without login to your 
 ```
    pkg update && upgrade
    pkg install git python
-   pip3 install -r requirements.txt
    git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
 ```
 
 # RUNNING
 ```
    cd Get-instagram-users-info---Any-instagram-account
+   pip3 install -r requirements.txt
    cd zxllkada
    cd Dump_Instagram_Information_ANY_ACCOUNT
    python3 InstaInfo_zxll.py
