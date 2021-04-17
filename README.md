@@ -38,11 +38,20 @@ This tool works prefect on termux without any ERRORS
 This tool helping you to get Instagram users informations without login to your account.
 
 
-# install ON TERMUX OR LINUX :
+# install ON Kali Linux :
+```
+   sudo apt-get update && sudo apt-get -y full-upgrade
+   sudo install git python python3-pip
+   git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account.git
+
+```
+
+# install ON TERMUX :
 ```
    pkg update && upgrade
-   pkg install git python
-   git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account
+   pkg install git python python3-pip
+   git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account.git
+
 ```
 
 # RUNNING
