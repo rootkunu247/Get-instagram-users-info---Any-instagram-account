@@ -26,8 +26,8 @@
 
 :warning: Note! : DO NOT USE THIS TOOL FOR CKRACKING
 
-This tool works prefect on termux without any ERRORS
-* If you found any ERRORS please contact me.
+This tool works prefect on Kali and it support termux (Phones "Android") without any problems
+* If you found any Errors please contact me.
 * Was developed using python3
 
 ```
