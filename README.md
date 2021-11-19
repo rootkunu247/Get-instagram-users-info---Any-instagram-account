@@ -82,7 +82,7 @@ This tool helping you to get Instagram users informations and dump their followe
 ```
 
 # LOGIN TO INSTAGRAM [ SOURCE CODE ]
-```
+```python
 def LoginToInstagram():
     global api
 
