@@ -175,6 +175,9 @@ def LoginToInstagram():
     
 
 ```
+```
+https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account/blob/master/zxllkada/Dump_Instagram_Information_ANY_ACCOUNT/SUPER_MODE/SuperLIB/login.py
+```
 
 # DATA [ UPDATES SOON ]
 ```
