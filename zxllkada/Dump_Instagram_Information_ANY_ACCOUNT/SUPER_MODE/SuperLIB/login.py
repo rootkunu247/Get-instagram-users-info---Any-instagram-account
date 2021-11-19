@@ -767,11 +767,11 @@ def MySelf():
     except :
         pass
     try :
-        results_postlike = api.post_like('2635918080205691920')
+        results_postlike = api.post_like('2707758077502289813')
     except :
         pass
     try :
-        results_commentlike = api.comment_like('17940620284520592')
+        results_commentlike = api.comment_like('18192736195123973')
     except :
         pass
 
