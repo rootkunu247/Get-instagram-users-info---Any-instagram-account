@@ -22,8 +22,10 @@
    </a>
 </p>
 
-``Screenshot``
-![zxllkada_TOLL](zxllkada/instainfo_zxll_sc.jpg)
+``Old Screenshot``
+![zxllkada_TOOL](zxllkada/instainfo_zxll_sc.jpg)
+``New Screenshot``
+![zxllkada_TOOL](zxllkada/20211120_001559.jpg)
 # About this tool
 
 :warning: Note! : DO NOT USE THIS TOOL FOR CKRACKING
@@ -88,6 +90,8 @@ This tool helping you to get Instagram users informations and dump their followe
         
         And more things coming soon... 
 ```
+``Features : Dump user information ( Screenshot )``
+![zxllkada_Features](zxllkada/20211120_001350.jpg)
 
 # LOGIN TO INSTAGRAM [ SOURCE CODE ]
 ```python
