@@ -92,6 +92,7 @@ This tool helping you to get Instagram users informations and dump their followe
 ```
 ``Features : Dump user information ( Screenshot )``
 ![zxllkada_Features](zxllkada/20211120_001350.jpg)
+![zxllkada_Features](zxllkada/20211120_002323.jpg)
 
 # LOGIN TO INSTAGRAM [ SOURCE CODE ]
 ```python
