@@ -22,6 +22,19 @@
    </a>
 </p>
 
+``Keep this project up to date by supporting me : ``
+
+        Bitcoin : bc1q0yjjfp73xjphel6qrvnwdygrdr6sh0fr5fawwk
+        
+        Litecoin : ltc1q34wcqw4pg75rjay644smk6a04zv6du79sttj99
+        
+        Trx : TUBz4DaLKTXuVajmbpDH3TZSJPPZccaTFV
+        
+        Dogecoin : DEx4pmUH3yR51BQj6DR1vJBFT7icnfMTqF
+        
+        PayPal : Link already on this page. 
+
+
 ``Old Screenshot``
 ![zxllkada_TOOL](zxllkada/instainfo_zxll_sc.jpg)
 
