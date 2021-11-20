@@ -32,7 +32,7 @@
         
         Dogecoin : DEx4pmUH3yR51BQj6DR1vJBFT7icnfMTqF
         
-        PayPal : Link already on this page. 
+        PayPal : Click on sponsor button. 
 
 
 ``Old Screenshot``
