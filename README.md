@@ -61,7 +61,7 @@ This tool helping you to get Instagram users informations and dump their followe
 # install ON Kali Linux :
 ```
    sudo apt-get update && sudo apt-get -y full-upgrade
-   sudo install git python
+   sudo apt install git python
    git clone https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account.git
    cd Get-instagram-users-info---Any-instagram-account
    pip install -r requirements.txt
