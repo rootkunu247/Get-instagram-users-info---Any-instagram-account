@@ -3,7 +3,7 @@ import os, sys, json, time
 
 
 dict = json.load(open("SUPER_MODE/SuperLIB/screen/PACKAGES/screen.json"))
-os.system("clear")
+os.system("clear || cls")
 
 def Flush(Which, Color1, Color2, SleepTime1, SleepTime2):
     for char in Which :
