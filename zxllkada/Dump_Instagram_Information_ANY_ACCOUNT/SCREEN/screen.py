@@ -52,8 +52,8 @@ def Banner():
     Flush("		"+dict["DRAWS"]["DRAW_3"], B, W, 0.03, 0)
 
     Flush("   "+dict["MODES"]["MODE_1"], G, W, 0.03, 0)
-    Flush("   "+dict["MODES"]["MODE_2"]+"\n", G, W, 0.03, 0)
-
+    Flush("   "+dict["MODES"]["MODE_2"], G, W, 0.03, 0)
+    Flush("   "+dict["MODES"]["MODE_3"]+"\n", G, W, 0.03, 0)
 
 def Screen():
     os.system('clear || cls')
