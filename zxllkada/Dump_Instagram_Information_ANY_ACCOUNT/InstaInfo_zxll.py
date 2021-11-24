@@ -6,7 +6,7 @@ import os, sys, time
 
 ############# CHOOSE MODE ---¬
 def WHICHMODE():
-    os.system("clear")
+    os.system("clear || cls")
     Screen()
 
     #### MODE FROM USER ---¬
