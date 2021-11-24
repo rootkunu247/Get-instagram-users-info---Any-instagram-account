@@ -5,16 +5,20 @@ import time
 # SHOW SUPER MODE BANNER
 def RunBanner():
     try :
-        os.system("clear")
+        os.system("clear || cls")
         Banner()
     except :
         print ("")
         sys.exit()
 
-# LOG IN
+# LOG IN V1
 def Login():
     LoginToInstagram()
 
+# LOG IN V2
+def LoginV2():
+    LoginToInstagramV2()
+    
 # REDIRECT
 def Redirect():
     k = 3
@@ -23,6 +27,6 @@ def Redirect():
         k -= 1
         time.sleep(1)
 
-    os.system("clear")
+    os.system("clear || cls")
     RunBanner()
     MySelf()
