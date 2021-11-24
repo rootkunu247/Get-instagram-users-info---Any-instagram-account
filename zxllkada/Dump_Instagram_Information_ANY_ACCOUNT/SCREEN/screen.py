@@ -30,7 +30,7 @@ def connect():
 
 def main():
     Flush(dict["IN_OR_OUT"]["IN"], BG_G, W, 0.05, 0.3)
-    os.system('clear')
+    os.system('clear || cls')
     Banner()
 
 def FalseMain():
@@ -56,7 +56,7 @@ def Banner():
 
 
 def Screen():
-    os.system('clear')
+    os.system('clear || cls')
 
     try :
         Flush(dict["TO_HELP"]["SPACES"]*14, W, W, 0.01, 0)
