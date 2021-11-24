@@ -30,6 +30,7 @@
 	},
 	"MODES" : {
 		"MODE_1" : "[ 1 ] --> Normal Mode ( Not Working For Now )\n",
-		"MODE_2" : "[ 2 ] --> Super Mode\n"
+		"MODE_2" : "[ 2 ] --> Super Mode V1",
+		"MODE_3" : "[ 3 ] --> Super Mode V2 ( use it only if V1 not working )",
 	}
 }
