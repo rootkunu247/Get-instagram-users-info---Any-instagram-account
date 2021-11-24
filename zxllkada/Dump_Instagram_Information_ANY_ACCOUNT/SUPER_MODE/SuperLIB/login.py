@@ -17,7 +17,7 @@ from SUPER_MODE.SuperLIB.screen.COLORS.colors import *
 
 api = None
 media_ids = []
-os.system("clear")
+os.system("clear || cls")
 GlobalFolder = "UsersSaved"
 
 def to_json(python_object):
@@ -67,7 +67,7 @@ def AskWhere():
     try :
         chose = int(input(f"[{R}!{W}] {G}OPTION{W} {R}:{W} ").strip())
         if chose == 1 :
-            os.system("clear")
+            os.system("clear || cls")
             MySelf()
         elif chose == 2 :
             sys.exit()
@@ -830,7 +830,7 @@ def MySelf():
         sys.exit()
 
 
-# MAIN LOGIN
+# MAIN LOGIN V1
 def LoginToInstagram():
     global api
 
@@ -888,6 +888,52 @@ def LoginToInstagram():
 
             device_id = cached_settings.get('device_id')
             api = Client(username, password, settings=cached_settings)
+
+    except (ClientCookieExpiredError, ClientLoginRequiredError) as e:
+        print (f'[ {R}COOKIES EXPIRED RE-LOGIN{W} ] : {e}\n')
+        Fix()
+        sys.exit()
+
+    except ClientLoginError as e:
+        print (f'[ {R}ClientLoginError{W} ] : {e}\n')
+        Fix()
+        sys.exit()
+
+    except ClientError as e:
+        print (f'[ {R}ClientError{W} ] : {e.msg}\n[ {R}Code{W} ] : {e.code}\n[ {R}Response{W} ] : {e.error_response}\n')
+        sys.exit()
+
+    except Exception as e:
+        print (f'[ {R}Unexpected Exception{W} ] : {e}\n')
+        sys.exit()
+
+    except KeyboardInterrupt :
+        sys.exit()
+
+
+    cookie_expiry = api.cookie_jar.auth_expires
+    print (f"[ {G}Cookie Expiry IN{W} ] : {datetime.datetime.fromtimestamp(cookie_expiry).strftime('%Y-%m-%dT%H:%M:%SZ')}\n")
+
+    userId = api.authenticated_user_id
+    UserInfo = api.user_info(userId)
+
+    print (f"{G}LOGGED IN SUCCESSFULLY AS{W}",UserInfo["user"]["username"])
+
+# MAIN LOGIN V2
+def LoginToInstagramV2():
+    global api
+
+    logging.basicConfig()
+    logger = logging.getLogger('instagram_private_api')
+    logger.setLevel(logging.WARNING)
+
+    print (f"{Y}LOGIN TO YOUR INSTAGRAM ACCOUNT IS REQUIRED *{W}\n")
+    print (f"{LB}LOGIN TO YOUR INSTAGRAM ACCOUNT FIRST{W}")
+    try :
+        username = input(f"{Y}	>> ENTER USERNAME : {W}").strip()
+        password = input(f"{Y}	>> ENTET THE PASSWORD : {W}").strip()
+
+        api = Client(username, password)
 
     except (ClientCookieExpiredError, ClientLoginRequiredError) as e:
         print (f'[ {R}COOKIES EXPIRED RE-LOGIN{W} ] : {e}\n')
