@@ -19,6 +19,10 @@ def WHICHMODE():
             RunBanner()
             Login()
             Redirect()
+        elif MODE == 3:
+            RunBanner()
+            LoginV2()
+            Redirect()
 
         else :
             print (f"{R}--> {MODE}{W} Not on list")
