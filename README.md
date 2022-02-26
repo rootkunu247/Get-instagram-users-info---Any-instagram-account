@@ -1,15 +1,3 @@
-# ⚙ last update was 19 November 2021.
-
-``old update was 19 March 2021.``
-
-``old update was 9 March 2021.``
-
-``old update was 9 January 2021.``
-
-``old update was 4 January 2021.``
-
-``old update was 2 April 2020.``
-
 <p align="center">
    <a href="https://twitter.com/kada_soulayman">
       <img src="https://img.shields.io/twitter/follow/kada_soulayman?label=Follow">
@@ -21,19 +9,6 @@
       <img src="https://img.shields.io/github/followers/zxllkada?label=Follow&style=social">
    </a>
 </p>
-
-``Keep this project up to date by supporting me : ``
-
-        Bitcoin : bc1q0yjjfp73xjphel6qrvnwdygrdr6sh0fr5fawwk
-        
-        Litecoin : ltc1q34wcqw4pg75rjay644smk6a04zv6du79sttj99
-        
-        Trx : TUBz4DaLKTXuVajmbpDH3TZSJPPZccaTFV
-        
-        Dogecoin : DEx4pmUH3yR51BQj6DR1vJBFT7icnfMTqF
-        
-        PayPal : Click on sponsor button. 
-
 
 ``Old Screenshot``
 ![zxllkada_TOOL](zxllkada/instainfo_zxll_sc.jpg)
@@ -50,10 +25,6 @@ This tool works prefect on Kali and it support termux (Phones "Android") without
 * If you found any Errors please contact me.
 * Was developed using python3
 
-```
-   Telegram : @ZKada
-   Facebook : Facebook.com/zxlll
-```
 
 This tool helping you to get Instagram users informations and dump their followers or following and more important features, without login to your account ( login required some times).
 
@@ -280,8 +251,3 @@ https://github.com/zxllkada/Get-instagram-users-info---Any-instagram-account/blo
 [^] SAVE FOLLOWING
 [^] SAVE FOLLOWERS
 ```
-
-
-
-# Telegram channel [updates here]
-![Telegram_channel](zxllkada/Telegram_channel_join_to_get_updates.png)
